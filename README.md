@@ -1,6 +1,8 @@
+[![Version](https://img.shields.io/badge/version-v0.0.1-green.svg)](https://github.com/AlexanderPrendota/aws-url-shortener/releases)
+
 # URL Shortener
 
-Сurrent version: 0.0.0 :tada:
+Сurrent version: 0.0.1 :tada:
 
 # Installation
 
