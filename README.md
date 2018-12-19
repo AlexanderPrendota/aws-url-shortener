@@ -6,11 +6,12 @@
 
 # Installation
 
-1. Download [latest release](https://github.com/AlexanderPrendota/aws-url-shortener/releases)
-2. Install dependencies via `yarn install`
-3. Compress folder with sourcse to `.zip`
-3. Upload `.zip` project to AWS Lambda service.
-4. Set environment properties.
+1. `npm install async`
+2. `npm install aws-sdk`
+3. `npm install shortid`
+3. `zip url-shortner-lambda.zip labmda-folder`
+4. Upload `.zip` project to AWS Lambda service.
+5. Set environment properties.
 
 
 
