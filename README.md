@@ -4,17 +4,6 @@
 
 Сurrent version: 0.0.1 :tada:
 
-# Installation
-
-1. `npm install async`
-2. `npm install aws-sdk`
-3. `npm install shortid`
-3. `zip url-shortner-lambda.zip labmda-folder`
-4. Upload `.zip` project to AWS Lambda service.
-5. Set environment properties.
-
-
-
 ### Environment:
 
 | ENV                | Description                             | 
